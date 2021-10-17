@@ -5,6 +5,7 @@
   "description": "backend for CWH",
   "main": "server.js",
   "scripts": {
+    "dev": "node server.js",
     "start": "nodemon server.js"
   },
   "author": "Hamza Shadeez",
